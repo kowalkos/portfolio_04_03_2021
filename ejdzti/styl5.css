@@ -1,0 +1,37 @@
+.szczypiorek {
+    background-color: rgb(119, 228, 18);
+    color: white;
+    font-size: 4rem;
+    padding-top: 30px;
+    position:relative;
+    width: 100%;
+    margin-top: 80px;
+    padding-left: 210px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.block {
+    margin-top: -80px;
+    background-color: white;
+    padding-top: 30px;
+    padding-left: 210px;
+    width: 100%;
+    position: relative;
+}
+.papryczki {
+    margin-top:-95px;
+    background-color: #b22222;
+    color: white;
+    font-size: 4rem;
+    padding-top: 30px;
+    padding-left: 10px;
+    padding-right: 200px;
+    width: 100%;
+    margin-left: auto;
+    position: absolute;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+body
+{
+    margin: 0%;
+}

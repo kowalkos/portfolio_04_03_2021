@@ -1,0 +1,22 @@
+.klasa
+{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+
+}
+.klasa:hover
+{
+    background-color: orange;
+}
+.klasa2
+{
+    width: 100px;
+    height: 100px;
+    background-color:blue;
+
+}
+.klasa2:hover
+{
+    background-color: orange;
+}

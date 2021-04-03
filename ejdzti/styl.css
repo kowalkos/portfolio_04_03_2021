@@ -1,0 +1,25 @@
+table, th, td {
+    border: 1px solid black;
+    text-align: center;
+    align-self: center;
+    
+}
+.center {
+    margin-left: auto;
+    margin-right: auto;
+  }
+.wiersz
+{
+  background-color: green;
+  color:black;
+}
+.kolmn
+{
+    background-color:gray ;
+    color:black;
+}
+.komórki
+{
+    background-color:yellow;
+    color:black;
+}

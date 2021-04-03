@@ -1,0 +1,17 @@
+.ramka {
+    border: 2px solid black;
+    width: 200px;
+    padding: 5px 5px;
+    background-color: gray;
+    position: absolute;
+}
+
+.ramka2 {
+    border: 2px solid black;
+    width: 200px;
+    padding: 5px 5px;
+    background-color: orange;
+    position: relative;
+    top: 140px;
+    left: 160px;
+}
